@@ -5,6 +5,8 @@ This is an Application for POS, for the first step this Application is specified
 
 ## Project Structure
 
+```
 ├── README.md
 └── service
     └── frontend-web
+```
