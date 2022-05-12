@@ -1,0 +1,13 @@
+{
+  "name": "POS-App-monorepo",
+  "version": "1.0.0",
+  "description": "This is a Description",
+  "main": "index.js",
+  "repository": "https://github.com/mohammedwazier/POS-App-monorepo.git",
+  "author": "<m.waziruddin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "list:tree": "tree -I node_modules",
+    "push:auto": "git add . && git commit -ma && git push origin main"
+  }
+}
